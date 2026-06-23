@@ -18,3 +18,5 @@ function mensajeAcceso(edad) {
 // 3) Prueba mensajeAcceso con 20 y con 15
 console.log("20 ->", mensajeAcceso(20));
 console.log("15 ->", mensajeAcceso(15));
+
+console.log("")
