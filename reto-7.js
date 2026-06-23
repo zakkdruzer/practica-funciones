@@ -15,3 +15,7 @@ console.log(crearTarjeta("Ada Lovelace", "Programadora"));
 
 // Intenta llamar formatear() afuera: ¿qué error sale?
 // console.log(formatear());
+// Error: ReferenceError: formatear is not defined
+// formatear solo existe dentro de crearTarjeta, fuera no está definida por el scope de las funciones anidadas.
+
+console.log("")
