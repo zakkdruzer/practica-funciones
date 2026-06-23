@@ -1,4 +1,4 @@
-console.log("%cReto 2 · Reto 3 · El despacho a domicilio", "font-weight: bold; color: green; font-size: 15px;");
+console.log("%cReto 4 · El semáforo de notas", "font-weight: bold; color: green; font-size: 15px;");
 console.log("")
 
 // Define clasificarNota(nota)
